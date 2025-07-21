@@ -1,7 +1,4 @@
 # Sales-Dashboard
- Analyzing global sales performance across categories, regions, and demographics to uncover actionable insights.
-Tool: Microsoft Excel + Power Query
-
 
 Summary:
 This dashboard breaks down revenue patterns by customer segment, product type, and marketing impact to support data-driven business decisions.
