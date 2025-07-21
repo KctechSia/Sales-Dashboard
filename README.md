@@ -2,21 +2,34 @@
  Analyzing global sales performance across categories, regions, and demographics to uncover actionable insights.
 Tool: Microsoft Excel + Power Query
 
+
 Summary:
-This dashboard analyzes sales data to reveal top-performing product categories, seasonal demand patterns, and regional purchasing behavior.
+This dashboard breaks down revenue patterns by customer segment, product type, and marketing impact to support data-driven business decisions.
 
 Key Metrics:
-Peak Sales Month: December
-Top Revenue Category: Perfumes
-Highest Average Order Size: Rural regions
+Revenue by Location:
+ City regions generate the highest revenue, followed by Suburb and Rural areas.
+Top Product Categories:
+ Perfume and Body Mist lead in total revenue performance.
+Customer Age Group:
+ The 31–50 age group contributes the most to sales, highlighting a strong middle-aged customer base.
+Marketing Impact:
+ Campaigns tagged as “High” impact revenue positively—especially for Cologne and Perfume categories.
+Yearly Revenue Trend:
+ Steady growth throughout the year, peaking mid-year with a slight decline in December.
+Mid-Tier Product Insight:
+ Makeup and Accessories show balanced revenue but could benefit from more targeted marketing to boost performance.
 
 Business Recommendations:
-Plan for December Demand:
- December shows the highest sales so inventory, marketing, and staffing should be optimized ahead of time to meet demand.
-
-Expand Perfume Category:
- Since perfumes drive the most revenue, introducing new variants, running bundled promotions, or prioritizing ad spend for this category should be considered.
-
-Leverage Rural Market Behavior:
- Rural regions show higher average order sizes therefore explore targeted campaigns or loyalty offers for these high-value buyers.
-
+Prioritize High-Revenue Locations:
+ Focus inventory, promotions, and delivery resources on city locations to maximize ROI.
+Leverage Top Categories:
+ Expand product lines and campaigns around Perfume and Body Mist to drive further revenue.
+Target the 31–50 Age Segment:
+ Design marketing content and product bundles tailored to the preferences of this high-value age group.
+Scale Effective Campaigns:
+ Increase investment in campaigns rated “High,” particularly for fragrance products with strong response rates.
+Re-Energize December Sales:
+ Analyze causes of the December dip and introduce timely offers to sustain momentum.
+Boost Mid-Tier Category Performance:
+ Deploy targeted ads and bundle offers to grow revenue from Makeup and Accessories.
